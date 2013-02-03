@@ -4,10 +4,13 @@ $action = array(
 	'name'      => 'spank',
 	'synonyms'  => array(
 		'spank',
-		'spanks'
+		'spanks',
+		'slaps  on the ass',
+		"slaps 's ass"
 	),
 	'replies'   => array(
-		"ACTION:squeaks\nIYAAAA~"
+		"ACTION:squeaks\nIYAAAA~",
+		"AH!\nACTION:giggles"
 	),
 	'declines'  => array("Don't spank me!"),
 	'friendly'  => false,
