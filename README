@@ -1,0 +1,3 @@
+This is a plugin for the PHP-IRC bot ( http://www.phpbots.org ). Some changes were made to the original PHP-IRC bot source to make this work. I don't have them available, but they should be obvious (when the module breaks PHP-IRC), and easy to add yourself.
+
+The project directory goes in <PHP-IRC path>/modules

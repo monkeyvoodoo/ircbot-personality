@@ -1,0 +1,20 @@
+<?php
+$action = array(
+	'type'      => 'fixed',
+	'name'      => 'keywords',
+	'synonyms'  => array(
+		$this->ircClass->getNick().', what words do you respond to?',
+		'What words do you respond to, '.$this->ircClass->getNick().'?'
+	),
+	'replies'   => array(),
+	'declines'  => array(),
+	'friendly'  => false,
+	'points'    => 1,
+	'threshold' => 0
+);
+
+$action['replies'][0]  = "I respond to ".count($this->keywords)." keyword categories:";
+foreach($this->keywords as $keywordGroup => $keywordList) {
+	$action['replies'] .= "\n{$keywordGroup}: ".implode(", ", $keywordList);
+}
+?>
