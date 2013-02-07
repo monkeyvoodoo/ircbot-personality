@@ -10,7 +10,7 @@ $action = array(
 		"ACTION:squeaks\nEheeh~ Eheh-ah-AHH\nAAACHOO!\nACTION:sneezes all over <nick>",
 		"ACTION:blushes\nChuu!~♡"
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0

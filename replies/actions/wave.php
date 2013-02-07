@@ -11,7 +11,7 @@ $action = array(
 		'ACTION:waves back to <nick>',
 		'ACTION:blushes a bit'
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0

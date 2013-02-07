@@ -11,7 +11,7 @@ $action = array(
 	'replies'   => array(
 		"ACTION:purrs\nNyaa~n!"
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0

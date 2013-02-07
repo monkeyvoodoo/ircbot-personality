@@ -11,7 +11,7 @@ $action = array(
 		"N- not the front!",
 		"Thanks! Now let me massage you, too~!"
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0

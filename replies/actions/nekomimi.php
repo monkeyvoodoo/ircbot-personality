@@ -15,7 +15,7 @@ $action = array(
 		"Neko mimi modo, ne?",
 		'http://www.youtube.com/watch?v=PNWr_Jlx6p0'
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0

@@ -14,7 +14,7 @@ $action = array(
 		"Eheheh... That tickles!",
 		"I'm not a lollipop!"
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0

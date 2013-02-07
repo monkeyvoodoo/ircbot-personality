@@ -4,8 +4,7 @@ $action = array(
 	'name'      => 'suplexs',
 	'synonyms'  => array('suplexes'),
 	'replies'   => array(
-		"ACTION:suplexes argon"
-		
+		'replies'   => 'include:modules/personality/replies/actions/suplex_include.php',
 	),
 	'declines'  => array(),
 	'friendly'  => false,

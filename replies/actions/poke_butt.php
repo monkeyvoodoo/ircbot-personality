@@ -9,7 +9,7 @@ $action = array(
 		"O_O HEY!",
 		"ACTION:kanchos <nick>"
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0

@@ -13,7 +13,7 @@ $action = array(
 		"Wasn't I... cute enough... onii-ch--\nACTION:goes limp",
 		"GIIICHHHHH!"
 	),
-	'declines'  => array('Who are you?', 'Why are you poking me?'),
+	'declines'  => array(),
 	'friendly'  => false,
 	'points'    => 1,
 	'threshold' => 0
